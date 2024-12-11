@@ -14,7 +14,7 @@ import { unifiedConditional } from 'unified-conditional'
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'mdx'],
-  basePath: "/react-app",
+  basePath: "/next-app",
   output: "export",  // <=== enables static exports
   reactStrictMode: true,
 }
