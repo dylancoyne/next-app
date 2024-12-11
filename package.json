@@ -1,5 +1,5 @@
 {
-  "name": "tailwindui-studio",
+  "name": "next-app",
   "version": "0.1.0",
   "homepage": "https://github.com/dylancoyne/next-app",
   "private": true,
@@ -7,7 +7,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b main -d build",
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm i && next build",
     "start": "next start",
     "lint": "next lint"
   },
