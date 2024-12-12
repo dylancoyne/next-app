@@ -21,6 +21,10 @@ export default {
       borderRadius: {
         '4xl': '2.5rem',
       },
+      colors: {
+        'text-neutral-950': '#191818',
+        'bg-neutral-950': '#191818',
+      },
       fontFamily: {
         sans: ['DM Sans', ...defaultTheme.fontFamily.sans],
         display: [
