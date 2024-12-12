@@ -1,32 +1,36 @@
-# Deploy Next.js to GitHub Pages
+# Studio
 
-This is a Next.js template which can be deployed to GitHub Pages as a static site.
+Studio is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
-## Deploying to GitHub Pages
+## Getting started
 
-1.  Create a new public GitHub repository
-1.  Edit `next.config.ts` to match your GitHub repository name:
-    - Given the pattern `https://github.com/<user>/<repo>`
-    - Update your `basePath` config to the name of your repo (e.g. `/repo`)
-1.  Push the starter code to the `main` branch
-1.  Run the `deploy` script (e.g. `npm run deploy`) to create the `gh-pages` branch
-1.  On GitHub, go to **Settings** > **Pages** > **Branch**, and choose `gh-pages` as the branch with the `/root` folder. Hit **Save**
-1.  Make a change
-1.  Run the `deploy` script again to push the changes to GitHub Pages
-
-Congratulations! You should have a URL like:
+To get started with this template, first install the npm dependencies:
 
 ```bash
-https://<github-user-name>.github.io/<github-project-name>/
+npm install
 ```
 
-For more information, see our [deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying/static-exports).
+Next, run the development server:
 
-## Learn More
+```bash
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Customizing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+
+## License
+
+This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
+
+## Learn more
+
+To learn more about the technologies used in this site template, see the following resources:
+
+- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
+- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
+- [Framer Motion](https://www.framer.com/docs/) - the official Framer Motion documentation
+- [MDX](https://mdxjs.com/) - the official MDX documentation
