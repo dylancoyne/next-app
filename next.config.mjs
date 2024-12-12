@@ -16,6 +16,9 @@ const nextConfig = {
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'mdx'],
   output: 'export',
   basePath: '/next-app',
+  images: {
+    unoptimized: true, // Disable default image optimization
+  },
 }
 
 
