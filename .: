@@ -1,0 +1,77 @@
+git commit -m fonts update
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   out/404.html
+#	renamed:    out/_next/static/chunks/app/blog/3-lessons-we-learned-going-back-to-the-office/page-8ae14d09c2d46176.js -> out/_next/static/chunks/app/blog/3-lessons-we-learned-going-back-to-the-office/page-91f948322109b6b0.js
+#	renamed:    out/_next/static/chunks/app/blog/future-of-web-development/page-531231c16d2a4bbf.js -> out/_next/static/chunks/app/blog/future-of-web-development/page-b08b9f30b94b2814.js
+#	renamed:    out/_next/static/chunks/app/blog/page-b14840082162e855.js -> out/_next/static/chunks/app/blog/page-cc1023f0eec484bc.js
+#	renamed:    out/_next/static/chunks/app/work/family-fund/page-ffb760824d732096.js -> out/_next/static/chunks/app/work/family-fund/page-410cf9148aaa2851.js
+#	new file:   out/_next/static/chunks/app/work/page-2f6a835f5c0e61a9.js
+#	deleted:    out/_next/static/chunks/app/work/page-35ea59aed1021f2e.js
+#	new file:   out/_next/static/chunks/app/work/phobia/page-1bfe35c223290842.js
+#	deleted:    out/_next/static/chunks/app/work/phobia/page-635c7774f70eecac.js
+#	deleted:    out/_next/static/chunks/app/work/unseal/page-6f9fafca2a674c63.js
+#	new file:   out/_next/static/chunks/app/work/unseal/page-75a86ebda4ad35c7.js
+#	renamed:    out/_next/static/eQ89VAipt5-JT-5m5f395/_buildManifest.js -> out/_next/static/uUlUYF-VVDd7qB2GkSmcF/_buildManifest.js
+#	renamed:    out/_next/static/eQ89VAipt5-JT-5m5f395/_ssgManifest.js -> out/_next/static/uUlUYF-VVDd7qB2GkSmcF/_ssgManifest.js
+#	modified:   out/about.html
+#	modified:   out/about.txt
+#	modified:   out/blog.html
+#	modified:   out/blog.txt
+#	modified:   out/blog/3-lessons-we-learned-going-back-to-the-office.html
+#	modified:   out/blog/3-lessons-we-learned-going-back-to-the-office.txt
+#	modified:   out/blog/a-short-guide-to-component-naming.html
+#	modified:   out/blog/a-short-guide-to-component-naming.txt
+#	modified:   out/blog/future-of-web-development.html
+#	modified:   out/blog/future-of-web-development.txt
+#	modified:   out/contact.html
+#	modified:   out/contact.txt
+#	modified:   out/index.html
+#	modified:   out/index.txt
+#	modified:   out/process.html
+#	modified:   out/process.txt
+#	modified:   out/work.html
+#	modified:   out/work.txt
+#	modified:   out/work/family-fund.html
+#	modified:   out/work/family-fund.txt
+#	modified:   out/work/phobia.html
+#	modified:   out/work/phobia.txt
+#	modified:   out/work/unseal.html
+#	modified:   out/work/unseal.txt
+#
+# Changes not staged for commit:
+#	modified:   .next/BUILD_ID
+#	modified:   .next/app-build-manifest.json
+#	modified:   .next/app-path-routes-manifest.json
+#	modified:   .next/build-manifest.json
+#	modified:   .next/cache/webpack/client-production/index.pack
+#	modified:   .next/next-minimal-server.js.nft.json
+#	modified:   .next/next-server.js.nft.json
+#	modified:   .next/prerender-manifest.json
+#	modified:   .next/server/app-paths-manifest.json
+#	modified:   .next/server/app/_not-found.html
+#	modified:   .next/server/app/_not-found.rsc
+#	modified:   .next/server/app/_not-found/page_client-reference-manifest.js
+#	modified:   .next/server/app/index.html
+#	modified:   .next/server/app/index.rsc
+#	modified:   .next/server/app/page_client-reference-manifest.js
+#	modified:   .next/server/functions-config-manifest.json
+#	modified:   .next/server/pages/404.html
+#	modified:   .next/server/pages/500.html
+#	modified:   .next/server/server-reference-manifest.json
+#	modified:   .next/trace
+#	deleted:    src/fonts/DMSans-Bold.woff2
+#	deleted:    src/fonts/DMSans-Medium.woff2
+#	deleted:    src/fonts/DMSans-Regular.woff2
+#	deleted:    src/fonts/DMSans-SemiBold.woff2
+#	modified:   src/styles/base.css
+#
+# Untracked files:
+#	src/fonts/DM-Sans-VariableFont.woff2
+#

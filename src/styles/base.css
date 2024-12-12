@@ -9,11 +9,14 @@
   src: url('../fonts/Mona-Sans.var.woff2') format('woff2');
 }*/
 
-
 @font-face {
   font-family: 'DM Sans';
-  font-weight: 500 600;
-  font-style: normal;
-  font-display: block;
-  src: url('../fonts/DMSans-Medium.woff2') format('woff2');
+  src: 
+    url('../fonts/DM-Sans-VariableFont.woff2') 
+    format(‘woff2 supports variations’),
+    url('../fonts/DM-Sans-VariableFont.woff2')
+    format('woff2-variations');
+  font-stretch: 25% 150%;
+  font-weight: 400 700;
+  font-display: swap;
 }
