@@ -9,6 +9,15 @@ import { List, ListItem } from '@/components/List'
 import { SectionIntro } from '@/components/SectionIntro'
 import { StylizedImage } from '@/components/StylizedImage'
 import { Testimonial } from '@/components/Testimonial'
+import logoVAA from '@/images/clients/vaa/logo-light.svg'
+import logoSage from '@/images/clients/sage/logo-light.svg'
+import logoPenguin from '@/images/clients/penguin/logo-light.svg'
+import logoClearleft from '@/images/clients/clear-left/logo-light.svg'
+import logoJaguar from '@/images/clients/jaguar/logo-light.svg'
+import logoNissan from '@/images/clients/nissan/logo-light.svg'
+import logoEdf from '@/images/clients/edf/logo-dark.svg'
+import logoVhols from '@/images/clients/vhols/logo-light.svg'
+import logoUnseal from '@/images/clients/unseal/logo-light.svg'
 import logoBrightPath from '@/images/clients/bright-path/logo-light.svg'
 import logoFamilyFund from '@/images/clients/family-fund/logo-light.svg'
 import logoGreenLife from '@/images/clients/green-life/logo-light.svg'
@@ -17,19 +26,18 @@ import logoMailSmirk from '@/images/clients/mail-smirk/logo-light.svg'
 import logoNorthAdventures from '@/images/clients/north-adventures/logo-light.svg'
 import logoPhobiaDark from '@/images/clients/phobia/logo-dark.svg'
 import logoPhobiaLight from '@/images/clients/phobia/logo-light.svg'
-import logoUnseal from '@/images/clients/unseal/logo-light.svg'
 import imageLaptop from '@/images/laptop.jpg'
 import { type CaseStudy, type MDXEntry, loadCaseStudies } from '@/lib/mdx'
 
 const clients = [
-  ['Phobia', logoPhobiaLight],
-  ['Family Fund', logoFamilyFund],
-  ['Unseal', logoUnseal],
-  ['Mail Smirk', logoMailSmirk],
-  ['Home Work', logoHomeWork],
-  ['Green Life', logoGreenLife],
-  ['Bright Path', logoBrightPath],
-  ['North Adventures', logoNorthAdventures],
+  ['Vaa', logoVAA],
+  ['Sage', logoSage],
+  ['Penguin', logoPenguin],
+  ['Clear Left', logoClearleft],
+  ['Jaguar', logoJaguar],
+  ['Nissan', logoNissan],
+  ['EDF', logoEdf],
+  ['Vhols', logoVhols],
 ]
 
 function Clients() {

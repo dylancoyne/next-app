@@ -21,7 +21,6 @@ const nextConfig = {
   },
 }
 
-
 function remarkMDXLayout(source, metaName) {
   let parser = Parser.extend(jsx())
   let parseOptions = { ecmaVersion: 'latest', sourceType: 'module' }
